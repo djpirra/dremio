@@ -31,20 +31,4 @@ Before diving into the guides, ensure you have the following installed:
 
 ---
 
-## 🤝 Contributing
-We welcome contributions! If you’d like to enhance this documentation:
-1. Fork this repository.
-2. Create a new branch for your updates.
-3. Submit a pull request.
-
----
-
-## 📬 Support
-If you have any questions or need help, feel free to reach out:
-- **Email**: support@example.com
-- **Community Forum**: [Join our Forum](https://forum.example.com)
-
----
-
 ### 🌟 Happy Learning!
-Empower your data journey with cu
