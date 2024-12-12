@@ -1,6 +1,7 @@
 # 📚 My Dremio Labs Documentation
 
-Welcome to the **My Dremio Labs Documentation**! Below, you'll find links to detailed guides and hands-on resources. Dive in and explore the power of modern data processing technologies. 🚀
+Welcome to the **My Dremio Labs Documentation**! 
+Below, you'll find links to detailed guides and hands-on resources. Dive in and explore the power of modern data processing technologies. 🚀
 
 This information was obtained from Dremio official documentation as-is.
 
