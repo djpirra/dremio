@@ -9,10 +9,10 @@ This information was obtained from Dremio official documentation as-is.
 
 ## 📄 Documentation Overview
 
-### 🔗 [Scenario 1: Intro to Dremio, Nessie, and Apache Iceberg](./Dremio%20-%20Scenario%201.md)
+### 🔗 [Scenario 1: Intro to Dremio, Nessie, and Apache Iceberg](./Scenario%201/README.md)
 A beginner-friendly introduction to setting up **Dremio**, **Nessie**, and **Apache Iceberg** on your laptop.
 
-### 🔗 [Scenario 2: Hands-on Deep Dive](./Dremio%20-%20Scenario%202.md)
+### 🔗 [Scenario 2: Hands-on Deep Dive](./Scenario%202/README.md)
 A comprehensive guide to working with **Apache Iceberg**, **Apache Spark**, **Nessie**, **Minio**, **Dremio**, **Polars**, and **Seaborn**.
 
 ---
